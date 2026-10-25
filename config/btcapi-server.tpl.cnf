@@ -1,4 +1,4 @@
-[POSTGRESQL] 
+[POSTGRESQL]
 
 dsn = postgres://postgres:test@/test
 server_threads = 70
